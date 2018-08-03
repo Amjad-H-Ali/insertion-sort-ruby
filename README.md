@@ -1,5 +1,3 @@
-# insertion-sort-ruby
-
 # Insertion-Sort
 ##### Description
 ###### In Insertion Sort, elements are sorted one at a time by comparing each element to its previous elements in the array and inserted where it is no longer less than an element.
