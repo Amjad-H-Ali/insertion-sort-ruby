@@ -1,8 +1,9 @@
 p "Insertion Sort!"
 
 def insertion_sort array
-	for i in array
-		p i
+	for indx in 1 ... array.size
+		value = array[indx]
+		p value
 	end	
 end	
 
